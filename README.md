@@ -261,15 +261,6 @@ This setting can be found in the ./src/bot/index.js file as shown below:
 	});
 
 
-
-## contributing
-
-A big thank you to all ARB Protocol developers and everyone who has contributed to the current version!
-<a href="">
-  <img alt="contributors" src="https://opencollective.com/affine/contributors.svg?width=890&button=false" />
-</a>
-
-
 ## risk disclaimer
 
 > [!IMPORTANT]
